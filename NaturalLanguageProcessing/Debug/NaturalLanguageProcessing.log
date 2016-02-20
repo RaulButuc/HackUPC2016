@@ -1,0 +1,13 @@
+﻿Build started 20/02/2016 03:41:53.
+     1>Project "D:\Git\HackUPC2016\NaturalLanguageProcessing\NaturalLanguageProcessing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Software (x64)\Microsoft\Visual Studio 2015 Enterprise Installation\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         D:\Software (x64)\Microsoft\Visual Studio 2015 Enterprise Installation\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Git\HackUPC2016\Debug\NaturalLanguageProcessing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Git\HackUPC2016\Debug\NaturalLanguageProcessing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Git\HackUPC2016\Debug\NaturalLanguageProcessing.lib" /MACHINE:X86 Debug\Source.obj
+         NaturalLanguageProcessing.vcxproj -> D:\Git\HackUPC2016\Debug\NaturalLanguageProcessing.exe
+     1>Done Building Project "D:\Git\HackUPC2016\NaturalLanguageProcessing\NaturalLanguageProcessing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.56
