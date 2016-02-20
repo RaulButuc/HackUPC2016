@@ -4,7 +4,7 @@
   },
   "Data": {
     "DefaultConnection": {
-      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-HackUPC2016-ef5521a0-f673-442c-b7ec-df97daa8049f;Trusted_Connection=True;MultipleActiveResultSets=true"
+      "ConnectionString": "Server=tcp:hackupc.database.windows.net,1433;Database=HackUPC2016_db;User ID=raulbutuc@hackupc;Password={your_password_here};Trusted_Connection=False;Encrypt=True;Connection Timeout=30;"
     }
   }
 }
