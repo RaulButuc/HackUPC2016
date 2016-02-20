@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5A18D04E-BC20-4E86-9B26-AC930DA92E94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D980136-73BB-4FD9-AAA7-D55A9D95A070}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HackUPC2016", "src\HackUPC2016\HackUPC2016.xproj", "{ED69192C-E300-47CF-AA02-C5DD42D8394F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED69192C-E300-47CF-AA02-C5DD42D8394F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED69192C-E300-47CF-AA02-C5DD42D8394F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED69192C-E300-47CF-AA02-C5DD42D8394F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED69192C-E300-47CF-AA02-C5DD42D8394F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ED69192C-E300-47CF-AA02-C5DD42D8394F} = {5A18D04E-BC20-4E86-9B26-AC930DA92E94}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "HackUPC2016"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-HackUPC2016-ef5521a0-f673-442c-b7ec-df97daa8049f;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
